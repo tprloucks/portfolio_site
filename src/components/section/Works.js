@@ -29,7 +29,9 @@ const Works = () => {
                     <Project key={x.id} id={x.id} url={x.url} name={x.name} />
                     )}
                 </div>
+                
             </div>
+
         </>
     )
 }
