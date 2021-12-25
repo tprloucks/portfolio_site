@@ -24,7 +24,7 @@ function App() {
       <Particles />
       <About />
       <Works />
-      <Contact />
+      {/* <Contact /> */}
     </div>
   );
 }
