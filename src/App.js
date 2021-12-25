@@ -23,7 +23,7 @@ function App() {
       <Header />
       <Particles />
       <About />
-      <Works />
+      {/* <Works /> */}
       {/* <Contact /> */}
     </div>
   );
